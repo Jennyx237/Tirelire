@@ -35,5 +35,3 @@
       Si le budget est négatif (ou nul), la méthode retourne simplement le montant de la tirelire.
       
       Ces méthodes feront partie de l’interface d’utilisation de la classe.
-
-Dis-moi 👍
