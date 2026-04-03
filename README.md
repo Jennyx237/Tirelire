@@ -1,13 +1,13 @@
 # Tirelire
-   Le code fourni crée une tirelire et lui fait subir diverses manipulations (la vider, la secouer, afficher son contenu, etc.).
-   Ce programme demande aussi à l’utilisateur quel budget il aimerait consacrer à ses vacances.
-    -Si la tirelire contient suffisamment d’argent (ce budget ou plus), il indique combien d’argent il resterait dans la tirelire après les vacances.
-    -Dans le cas contraire, il indique quel montant manque pour partir en vacances avec le budget souhaité.
-     La définition de la classe Tirelire manque et il vous est demandé de la fournir.
+      Le code fourni crée une tirelire et lui fait subir diverses manipulations (la vider, la secouer, afficher son contenu, etc.).
+      Ce programme demande aussi à l’utilisateur quel budget il aimerait consacrer à ses vacances.
+        -Si la tirelire contient suffisamment d’argent (ce budget ou plus), il indique combien d’argent il resterait dans la tirelire après les vacances.
+        -Dans le cas contraire, il indique quel montant manque pour partir en vacances avec le budget souhaité.
+       La définition de la classe Tirelire manque et il vous est demandé de la fournir.
 
 ## Spécifications de la classe Tirelire
-   Une tirelire est caractérisée par le montant qu’elle contient. Vous nommerez cet attribut montant dans votre programme.
-   Les traitements qui lui sont spécifiques sont :
+    Une tirelire est caractérisée par le montant qu’elle contient. Vous nommerez cet attribut montant dans votre programme.
+     Les traitements qui lui sont spécifiques sont :
     1.une méthode getMontant retournant le montant de la tirelire ;
 
     2.Une méthode afficher affichant les données de la tirelire sous le format suivant :
