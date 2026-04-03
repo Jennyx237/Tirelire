@@ -3,7 +3,7 @@
    Ce programme demande aussi à l’utilisateur quel budget il aimerait consacrer à ses vacances.
     -Si la tirelire contient suffisamment d’argent (ce budget ou plus), il indique combien d’argent il resterait dans la tirelire après les vacances.
     -Dans le cas contraire, il indique quel montant manque pour partir en vacances avec le budget souhaité.
-   La définition de la classe Tirelire manque et il vous est demandé de la fournir.
+     La définition de la classe Tirelire manque et il vous est demandé de la fournir.
 
 ## Spécifications de la classe Tirelire
    Une tirelire est caractérisée par le montant qu’elle contient. Vous nommerez cet attribut montant dans votre programme.
