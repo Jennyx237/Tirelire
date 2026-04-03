@@ -24,7 +24,7 @@
     6.une méthode puiser permettant de retirer un montant donné en paramètre.
       -Si le montant est négatif, il est ignoré.
       -Si le montant est supérieur au montant disponible, la tirelire est vidée.
-Cette méthode ne retourne rien.
+      Cette méthode ne retourne rien.
 
     7.Une méthode montant_suffisant à deux paramètres qui retourne true si la tirelire contient assez d’argent pour couvrir un budget donné (premier paramètre, type double), et false sinon.
       -Si c’est suffisant, le second paramètre solde (passé par référence) contient le montant restant.
@@ -34,7 +34,6 @@ Cette méthode ne retourne rien.
     8.une méthode calculerSolde qui retourne la différence entre le montant de la tirelire et le budget souhaité (type double).
       Si le budget est négatif (ou nul), la méthode retourne simplement le montant de la tirelire.
 
-Ces méthodes feront partie de l’interface d’utilisation de la classe.
-ou carrément te donner la solution propre niveau école d’ingé (avec pièges évités)
+      Ces méthodes feront partie de l’interface d’utilisation de la classe.
 
 Dis-moi 👍
