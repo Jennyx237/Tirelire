@@ -33,7 +33,7 @@
 
     8.une méthode calculerSolde qui retourne la différence entre le montant de la tirelire et le budget souhaité (type double).
       Si le budget est négatif (ou nul), la méthode retourne simplement le montant de la tirelire.
-
+      
       Ces méthodes feront partie de l’interface d’utilisation de la classe.
 
 Dis-moi 👍
